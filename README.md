@@ -1,5 +1,4 @@
-
-# PurpleMarts-server
+# Scanner
 ## Step 1:
 Move to Current Downloaded Location using cmd or terminal, if you see the Project in your current directory <br>
 Check if, req.txt file exists<br>
@@ -139,6 +138,26 @@ Run django server <br>
 > ##### &emsp;OUTPUT:
 
 > Process successfully, file will be return
+
+# React:
+### Step 1:
+Move to Current Downloaded Location using cmd or terminal, <br>
+` cd ./Design/static/`
+
+### step 2:
+Install npm packages using 
+` npm install `
+
+### step 3:
+Webpack for each changes<br>
+Move toward virtualenvironment or installed python dact package<br>
+` workon env_name `
+
+Listen server for React<br>
+` dact-watch`
+
+changes will update in the server
+
 
 # Result:
 
