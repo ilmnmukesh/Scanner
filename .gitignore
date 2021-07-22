@@ -1,0 +1,8 @@
+**/__pycache__/*
+**/.vscode/*
+**/assets/*
+
+**/node_modules/*
+**/.pnp/*
+**/.pnp.js/*
+**/build/*
