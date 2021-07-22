@@ -64,7 +64,27 @@ Django providing MongoDB package called djongo
 ## Step 6:
 Run django server <br>
  `python manage.py runserver`
- 
+
+# React:
+### Step 1:
+Move to Current Downloaded Location using cmd or terminal, <br>
+` cd ./Design/static/`
+
+### step 2:
+Install npm packages using 
+` npm install `
+
+### step 3:
+Webpack for each changes<br>
+Move toward virtualenvironment or installed python dact package<br>
+` workon env_name `
+
+Listen server for React<br>
+` dact-watch`
+
+changes will update in the server
+
+
 # API Endpoint:
 ### 1. Image Process
 > #### a. For base64 returns
@@ -138,25 +158,6 @@ Run django server <br>
 > ##### &emsp;OUTPUT:
 
 > Process successfully, file will be return
-
-# React:
-### Step 1:
-Move to Current Downloaded Location using cmd or terminal, <br>
-` cd ./Design/static/`
-
-### step 2:
-Install npm packages using 
-` npm install `
-
-### step 3:
-Webpack for each changes<br>
-Move toward virtualenvironment or installed python dact package<br>
-` workon env_name `
-
-Listen server for React<br>
-` dact-watch`
-
-changes will update in the server
 
 
 # Result:
