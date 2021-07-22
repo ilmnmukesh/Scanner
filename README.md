@@ -4,7 +4,7 @@
 Move to Current Downloaded Location using cmd or terminal, if you see the Project in your current directory <br>
 Check if, req.txt file exists<br>
 
-Here, I'm using **dact** package, it will create the django project and react app directly once created.<br> It will webpack the frontend using **dact-watch**.<br> Every change it will generate the webpack app.bundle.js
+Here, I'm using **dact** package, it will create the django project and react app directly.<br>Once created, it will webpack the frontend using **dact-watch**.<br> Every change it will generate the webpack app.bundle.js
 
 If you want to edit frontend, instruction will be given below
 
